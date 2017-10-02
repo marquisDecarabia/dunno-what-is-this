@@ -1,4 +1,3 @@
-# Project from "The Node Beginner Book"
-# A Node.js tutorial by Manuel Kiessling
+# meow-x-mas
 https://www.nodebeginner.org/
-Tried to follow making of node project for uploading * *.png* files
+Tried to follow making of node project for uploading * *.png* files from "The Node Beginner Book" by Manuel Kiessling/
